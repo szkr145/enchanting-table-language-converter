@@ -1,2 +1,3 @@
-# enchanting-table-language-converter
-Converts english letters to enchatning table letters and vice versa
+# Enchatning table language translator
+Enchanting table language translator written in Python.
+Can convert english letters to galactic language(enchanting table language) and vice versa.
